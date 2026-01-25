@@ -1,3 +1,4 @@
+//odd or even program
 import java.util.*;
 class Oddoreven{
     public static void main(String args[])
